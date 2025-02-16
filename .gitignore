@@ -1,0 +1,10 @@
+# Security critical ignores
+.env
+*.log
+*.json
+*.png
+
+# Python ignores
+__pycache__/
+venv/
+*.py[cod]
